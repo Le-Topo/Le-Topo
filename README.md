@@ -23,17 +23,17 @@ I am a Software Engineering student at **Polytechnique Montréal** with 3 years 
 
 ### 🏆 Selected Projects
 
-#### 👻 [Pac-Man AI Agents](Link_to_repo)
+#### 👻 [Pac-Man AI Agents](https://github.com/INF1007-2025A/projet-2-Le-Topo)
 *Implementation of a game engine and intelligent autonomous agents.*
 - **Focus:** Artificial Intelligence, Pathfinding (A*, BFS), Game Theory.
 - **Key Feature:** Designed custom ghost behaviors ("Chase", "Ambush") operating in real-time.
 
-#### 🎟️ [Invite Them](Link_to_repo)
+#### 🎟️ [Invite Them](https://github.com/Le-Topo/invite-them-frontend)
 *Digital ticketing and event management system.*
 - **Focus:** Mobile Development (React Native/Ionic), Security.
 - **Key Feature:** Secure QR Code generation and scanning system for access control.
 
-#### 📡 [Network Optimization Tool](Link_to_repo_if_possible)
+#### 📡 [Network Optimization Tool](https://github.com/Achaire-Zogo/HO_PLANIFIER)
 *Developed for Orange Cameroun.*
 - **Focus:** Data Analysis, Optimization.
 - **Key Feature:** Decision support tool to optimize 2G/3G neighbor relations for telecom antennas.
