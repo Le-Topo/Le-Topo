@@ -1,42 +1,45 @@
-# Salut, je suis Astrid Jounang-Nana (aka Le Topo) 👋
-### Développeur Full-Stack & Passionné d'IA 🧠
+# Hi there, I'm Astrid Jounang-Nana (aka Le Topo) 👋
+### 🚀 Software Engineer | AI Enthusiast | Full-Stack Developer
 
-Étudiant en Génie Logiciel à **Polytechnique Montréal**, je combine une expérience en startup (Worldevs) avec une passion pour l'algorithmique et les systèmes intelligents.
+I am a Software Engineering student at **Polytechnique Montréal** with 3 years of hands-on experience in Full-Stack development. Passionate about bridging the gap between robust software engineering and **Artificial Intelligence**.
 
-- 🔭 Je travaille actuellement sur : **Des agents autonomes pour un moteur Pac-Man en Python**
-- 🎓 Études : Génie Logiciel @ Polytechnique Mtl | Ex-UQTR (Liste d'honneur)
-- 💼 Expérience : 3 ans Full-Stack (Angular/Laravel) + Freelance
-- 🧩 Algorithmique : **350+ problèmes résolus** sur LeetCode
+- 🔭 I’m currently working on: **Autonomous AI Agents for Pac-Man** (Python)
+- 🎓 Education: Software Engineering @ **Polytechnique Montréal** | Ex-UQTR (Dean's Honor List)
+- 💼 Experience: 3 Years Full-Stack (Startup & Freelance)
+- 🧠 Algorithms: **350+ LeetCode problems solved** (Top percentile)
 
 ---
 
-### 🛠️ Tech Stack
-| Catégorie | Technologies |
+### 🛠️ Languages and Tools
+
+| Category | Technologies |
 | :--- | :--- |
-| **Langages** | Python, Java, C++, C, TypeScript, PHP, MATLAB, C# |
+| **Languages** | Python, Java, C++, C, TypeScript, PHP, MATLAB, C# |
 | **Frontend** | React, Angular, Ionic, Tailwind CSS |
 | **Backend** | Node.js, Spring Boot, Laravel, SQL |
-| **Outils** | Docker, Git, Linux, Altium Designer |
+| **Engineering** | Docker, Git, Linux, Altium Designer, UML |
 
 ---
 
-### 🚀 Projets Clés
+### 🏆 Selected Projects
 
-#### 👻 [Pac-Man AI Agents](Lien_vers_repo)
-*Implémentation d'un moteur de jeu et d'agents intelligents.*
-- **Tech :** Python, Pathfinding algorithms.
-- **Challenge :** Création de comportements distincts ("Chase", "Ambush") pour les fantômes sans utiliser de bibliothèques de jeu préfabriquées.
+#### 👻 [Pac-Man AI Agents](Link_to_repo)
+*Implementation of a game engine and intelligent autonomous agents.*
+- **Focus:** Artificial Intelligence, Pathfinding (A*, BFS), Game Theory.
+- **Key Feature:** Designed custom ghost behaviors ("Chase", "Ambush") operating in real-time.
 
-#### 🎟️ [Invite Them](Lien_vers_repo)
-*Gestion de billetterie événementielle numérique.*
-- **Tech :** Stack Mobile (React Native/Ionic).
-- **Fonctionnalité :** Génération de QR Codes sécurisés et système de scan en temps réel pour le contrôle d'accès.
+#### 🎟️ [Invite Them](Link_to_repo)
+*Digital ticketing and event management system.*
+- **Focus:** Mobile Development (React Native/Ionic), Security.
+- **Key Feature:** Secure QR Code generation and scanning system for access control.
 
-#### 📡 [Optimisation Réseau Orange Cameroun](Lien_vers_repo_si_public)
-*Outil d'aide à la décision pour télécoms.*
-- **Impact :** Optimisation des relations de voisinage 2G/3G pour les antennes relais.
+#### 📡 [Network Optimization Tool](Link_to_repo_if_possible)
+*Developed for Orange Cameroun.*
+- **Focus:** Data Analysis, Optimization.
+- **Key Feature:** Decision support tool to optimize 2G/3G neighbor relations for telecom antennas.
 
 ---
 
-### 📊 Stats GitHub
-![Astrid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Le-Topo&show_icons=true&theme=radical)
+### 📊 GitHub Stats
+
+![Astrid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Le-Topo&show_icons=true&theme=radical&hide_border=true)
