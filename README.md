@@ -6,7 +6,7 @@ I am a Software Engineering student at **Polytechnique Montréal** with 3 years 
 - 🔭 I’m currently working on: **Autonomous AI Agents for Pac-Man** (Python)
 - 🎓 Education: Software Engineering @ **Polytechnique Montréal** | Ex-UQTR (Dean's Honor List)
 - 💼 Experience: 3 Years Full-Stack (Startup & Freelance)
-- 🧠 Algorithms: **350+ LeetCode problems solved** (Top percentile)
+- 🧠 Algorithms: **550+ LeetCode problems solved** (Top percentile)
 
 ---
 
