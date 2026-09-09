@@ -43,3 +43,9 @@ I am a Software Engineering student at **Polytechnique Montréal** with 3 years 
 ### 📊 GitHub Stats
 
 ![Astrid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Le-Topo&show_icons=true&theme=radical&hide_border=true)
+
+---
+
+### 📊 Leetcode Stats
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/JacobLinCool)
